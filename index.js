@@ -5,7 +5,7 @@ var enabled = true;
 process.on('exit', function() {
     var diffTime = now() - startTime;
     if (enabled) {
-    	console.log('\nScript execution time: %s', formatTime(diffTime));
+    	console.log('Script execution time: %s', formatTime(diffTime));
 	}
 });
 
