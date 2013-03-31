@@ -3,7 +3,6 @@ setCurrentTime(0);
 
 var runtimer = require('../');
 var assert = require('assert');
-var sinon = require('sinon');
 
 describe('Time formatter', function() {
 
