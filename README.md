@@ -6,6 +6,12 @@ Simple node.js utility to measure script execution time
 ```
 npm install runtimer
 ```
+
+## Test
+```
+make test
+```
+
 ## Usage
 ```
 require('runtimer');
