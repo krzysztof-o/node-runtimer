@@ -1,5 +1,5 @@
 {
-  "name": "node-runtimer",
+  "name": "runtimer",
   "version": "1.0.0",
   "description": "Simple utillity to measure execution time",
   "main": "index.js",
