@@ -13,7 +13,7 @@ make test
 ```
 
 ## Usage
-```
+```javascript
 require('runtimer');
 ```
 
